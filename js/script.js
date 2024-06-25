@@ -7,3 +7,7 @@ function mostrarDataHora(){
 }
 
 mostrarDataHora();
+
+function mostrarVideo(){
+    const video = document.getElementById('video');
+}
